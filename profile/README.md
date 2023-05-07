@@ -13,8 +13,8 @@
   </ul>
   &emsp<h3>AVRGlove</h3>
   <ul>
-    &emsp&emsp<li>Model 0.2</li>
-    &emsp&emsp<li>Model 0.1</li>
+    <li>Model 0.2</li>
+    <li>Model 0.1</li>
   </ul>
 </p>
 <h2>Quick Links</h2>
