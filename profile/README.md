@@ -8,7 +8,7 @@
 </p>
 <h2>Releases</h2>
 <p>
-  &emsp<h3>AVRGloves</h3>
+  <h3>AVRGloves</h3>
   <ul>
   </ul>
   &emsp<h3>AVRGlove</h3>
