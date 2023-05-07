@@ -14,7 +14,7 @@
   <h4>AVRGlove</h4>
   <ul>
     <li>Model 0.2</li>
-    <li>Model 0.1</li>
+    <li>Older Releases</li>
   </ul>
 </p>
 <h2>Quick Links</h2>
