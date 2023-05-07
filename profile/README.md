@@ -8,10 +8,10 @@
 </p>
 <h2>Releases</h2>
 <p>
-  <h3>AVRGloves</h3>
+  <h4>AVRGloves</h4>
   <ul>
   </ul>
-  &emsp<h3>AVRGlove</h3>
+  &emsp<h4>AVRGlove</h4>
   <ul>
     <li>Model 0.2</li>
     <li>Model 0.1</li>
