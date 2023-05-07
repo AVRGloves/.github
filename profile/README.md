@@ -8,7 +8,7 @@
 </p>
 <h2>Releases</h2>
 <p>
-  <h4>AVRGloves</h4>
+  <h4>AVRGloves Software</h4>
   <ul>
   </ul>
   <h4>AVRGlove</h4>
