@@ -11,7 +11,7 @@
   <h4>AVRGloves</h4>
   <ul>
   </ul>
-  &emsp<h4>AVRGlove</h4>
+  <h4>AVRGlove</h4>
   <ul>
     <li>Model 0.2</li>
     <li>Model 0.1</li>
