@@ -9,6 +9,6 @@
 <h2>Quick Links</h2>
 <h2>Achievements</h2>
 <ul>
-  <li>AVRGlove Model 2.0 - Winner of the University of North Florida Computing Symposium</li>
+  <li>AVRGlove Model 0.2 - Winner of the University of North Florida Computing Symposium</li>
 </ul>
 <h2>Contact Us</h2>
