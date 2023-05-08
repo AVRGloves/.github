@@ -11,7 +11,7 @@
   <h4>AVRGloves Software</h4>
   <ul>
   </ul>
-  <h4>AVRGlove</h4>
+  <h4>Gloves</h4>
   <ul>
     <li>Model 0.2 (Current)</li>
     <li>Older Releases</li>
